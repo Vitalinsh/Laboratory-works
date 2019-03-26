@@ -1,0 +1,7 @@
+i<>.\src\LFSR.vhd
+i<>.\src\GraphicBuilder.vhd
+i<>.\src\CNetwork_LIB.vhd
+i<>.\src\RLA.vhd
+i<>.\src\S_Distributor.vhd
+i<>.\src\Calculations.vhd
+i<>.\src\TB_Lab2.vhd

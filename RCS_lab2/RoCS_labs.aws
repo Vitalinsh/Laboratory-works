@@ -1,0 +1,16 @@
+[Version]
+Version=9.1
+[Designs]
+lfsr=.\LFSR\LFSR.adf
+labs=.\Labs\Labs.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+lfsr=0
+labs=1
+[Settings]
+Active=labs
