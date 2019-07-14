@@ -1,7 +1,0 @@
-.\src\LFSR.vhd
-.\src\GraphicBuilder.vhd
-.\src\CNetwork_LIB.vhd
-.\src\RLA.vhd
-.\src\S_Distributor.vhd
-.\src\Calculations.vhd
-.\src\TB_Lab2.vhd
